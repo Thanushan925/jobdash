@@ -1,6 +1,6 @@
 # JobDash
 
-## It's like UBER but for jobs.
+### It's like UBER but for jobs.
 
 The main point of this app is to make earning money based on your skills easier. This app should make working and earning money as easy as UBER makes taxi booking easier.
 
